@@ -1,0 +1,7 @@
+{
+  "name": "Veloce Speedometer Pro",
+  "description": "A high-end, automotive-grade digital dashboard featuring a precision analog speedometer, live compass, and advanced travel statistics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
